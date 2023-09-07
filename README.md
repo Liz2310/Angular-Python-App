@@ -3,6 +3,8 @@ Hi Ivy, te pongo el link donde me base para esto https://codezup.com/integrate-a
 
 Otra cosita, idk como tengas flask instalado pero yo lo use con un virtualenv pq mi compu hacer RIP si le instalo mas cosas. Hay un folder para ese virtual env, se llama env. Para correr las flask app que lit es el unico archivo .py, activas ese env y ya lo corres con python3.
 
+Y otra cosa, los entrys que tengo en la base de datos te los puse como comentarios en el .py, te deje el sample data del tutorial para que veas que pedo y como tu eres la crack de typescript me imagino que le vas a entender un poquito mejor que yo. El punto es, tu formatea como quieras los datos de la BD, lo que se te haga más fácil. Yo me encargo de que así sea como se te manden.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
 ## Development server
