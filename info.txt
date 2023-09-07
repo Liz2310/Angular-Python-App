@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/47848778/parameter-implicitly-has-an-any-type
+
+https://github.com/CODEZ-UP/AngularFlask/blob/master/src/app/app.component.ts
+
+https://codezup.com/integrate-angular-with-flask-python-tutorial/
