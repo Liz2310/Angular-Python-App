@@ -1,4 +1,7 @@
 # TEST2
+Hi Ivy, te pongo el link donde me base para esto https://codezup.com/integrate-angular-with-flask-python-tutorial/ es medio viejo el tutorial, pero ntp, en su momento me tope con cosas outdated y lo corregi para que jalara. Por si ves discrepancias entre mi codigo y el del tutorial, that's why.
+
+Otra cosita, idk como tengas flask pero yo lo use con un virtualenv pq mi compu hacer RIP si le instalo mas cosas. Hay un folder para ese virtual env, se lla
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
